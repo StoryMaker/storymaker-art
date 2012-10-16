@@ -1,0 +1,6 @@
+Place svg assets sized for xdpi in original/
+
+To generate the scaled .png's
+
+$ cd original
+$ ./convert.sh
