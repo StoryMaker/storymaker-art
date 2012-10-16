@@ -1,5 +1,9 @@
 Place svg assets sized for xdpi in original/
 
+Make sure you have ImageMagick installed.  On a mac I suggest you use this:
+
+http://cactuslab.com/imagemagick/
+
 To generate the scaled .png's
 
 $ cd original
