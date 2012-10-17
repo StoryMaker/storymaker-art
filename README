@@ -4,7 +4,11 @@ Make sure you have ImageMagick installed.  On a mac I suggest you use this:
 
 http://cactuslab.com/imagemagick/
 
-To generate the scaled .png's
+To generate the scaled .png's:
 
 $ cd original
 $ ./convert.sh
+
+Now inspect the generated png's, if any need to be adjusted manually for a specific dpi, just place the manually created .png file in the appropriate dpi folder underneith the original/ directory.
+
+TODO: update script to pull manually created png's from original/*-dpi folders
