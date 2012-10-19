@@ -18,8 +18,40 @@ rm ../res/drawable-ldpi/*
 for f in *.svg;
 do
 	echo "Processing $f"
-	convert -background none $f ../res/drawable-xdpi/${f/.svg}.png
-	convert -background none $f[75%] ../res/drawable-hdpi/${f/.svg}.png
-	convert -background none $f[50%] ../res/drawable-mdpi/${f/.svg}.png
-	convert -background none $f[37.5%] ../res/drawable-ldpi/${f/.svg}.png
+	
+	if [ -f drawable/$f ]; then
+		echo "manually scalled file exists at drawable"
+		convert -background none drawable/$f ../res/drawable/${f/.svg}.png
+	else
+		convert -background none $f ../res/drawable/${f/.svg}.png
+	fi
+
+
+	if [ -f drawable-xdpi/$f ]; then
+		echo "manually scalled file exists at drawable-xdpi"
+		convert -background none drawable-xdpi/$f ../res/drawable-xdpi/${f/.svg}.png
+	else
+		convert -background none $f ../res/drawable-xdpi/${f/.svg}.png
+	fi
+
+	if [ -f drawable-hdpi/$f ]; then
+		echo "manually scalled file exists in drawable-hdpi"
+		convert -background none drawable-hdpi/$f ../res/drawable-hdpi/${f/.svg}.png
+	else
+		convert -background none $f[75%] ../res/drawable-hdpi/${f/.svg}.png
+	fi
+
+	if [ -f drawable-mdpi/$f ]; then
+		echo "manually scalled file exists drawable-mdpi"
+		convert -background none drawable-mdpi/$f ../res/drawable-mdpi/${f/.svg}.png
+	else
+		convert -background none $f[50%] ../res/drawable-mdpi/${f/.svg}.png
+	fi
+
+	if [ -f drawable-ldpi/$f ]; then
+		echo "manually scalled file exists in drawable-ldpi"
+		convert -background none drawable-ldpi/$f ../res/drawable-ldpi/${f/.svg}.png
+	else
+		convert -background none $f[37.5%] ../res/drawable-ldpi/${f/.svg}.png
+	fi
 done
