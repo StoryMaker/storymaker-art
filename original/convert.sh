@@ -8,6 +8,13 @@
 #When creating svg files set the image size to the size that you want your hdpi images to be.
 #To use simply run the create_images script from its folder and it will generate images for all the svg files.
 
+# purge generated files
+rm ../res/drawable/*
+rm ../res/drawable-xdpi/*
+rm ../res/drawable-hdpi/*
+rm ../res/drawable-mdpi/*
+rm ../res/drawable-ldpi/*
+
 for f in *.svg;
 do
 	echo "Processing $f"
