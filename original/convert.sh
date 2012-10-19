@@ -22,8 +22,8 @@ do
 	if [ -f drawable/$f ]; then
 		echo "manually scalled file exists at drawable"
 		convert -background none drawable/$f ../res/drawable/${f/.svg}.png
-	else
-		convert -background none $f ../res/drawable/${f/.svg}.png
+#	else
+#		convert -background none $f ../res/drawable/${f/.svg}.png
 	fi
 
 
