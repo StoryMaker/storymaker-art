@@ -16,3 +16,5 @@ Now inspect the generated png's, if any need to be adjusted manually for a speci
 update script to pull manually created png's from original/*-dpi folders
 
 script should delete all generated assets before generating new ones
+
+bug: on OS X for some reason icons were being at 7x7 instead of 18x18?
