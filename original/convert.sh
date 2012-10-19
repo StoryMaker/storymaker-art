@@ -10,7 +10,7 @@
 
 # purge generated files
 rm ../res/drawable/*
-rm ../res/drawable-xdpi/*
+rm ../res/drawable-xhdpi/*
 rm ../res/drawable-hdpi/*
 rm ../res/drawable-mdpi/*
 rm ../res/drawable-ldpi/*
@@ -20,36 +20,36 @@ do
 	echo "Processing $f"
 	
 	if [ -f drawable/$f ]; then
-		echo "manually scalled file exists at drawable"
+		echo "manually scaled file exists at drawable"
 		convert -background none drawable/$f ../res/drawable/${f/.svg}.png
 #	else
 #		convert -background none $f ../res/drawable/${f/.svg}.png
 	fi
 
 
-	if [ -f drawable-xdpi/$f ]; then
-		echo "manually scalled file exists at drawable-xdpi"
-		convert -background none drawable-xdpi/$f ../res/drawable-xdpi/${f/.svg}.png
+	if [ -f drawable-xhdpi/$f ]; then
+		echo "manually scaled file exists at drawable-xhdpi"
+		convert -background none drawable-xhdpi/$f ../res/drawable-xhdpi/${f/.svg}.png
 	else
-		convert -background none $f ../res/drawable-xdpi/${f/.svg}.png
+		convert -background none $f ../res/drawable-xhdpi/${f/.svg}.png
 	fi
 
 	if [ -f drawable-hdpi/$f ]; then
-		echo "manually scalled file exists in drawable-hdpi"
+		echo "manually scaled file exists in drawable-hdpi"
 		convert -background none drawable-hdpi/$f ../res/drawable-hdpi/${f/.svg}.png
 	else
 		convert -background none $f[75%] ../res/drawable-hdpi/${f/.svg}.png
 	fi
 
 	if [ -f drawable-mdpi/$f ]; then
-		echo "manually scalled file exists drawable-mdpi"
+		echo "manually scaled file exists drawable-mdpi"
 		convert -background none drawable-mdpi/$f ../res/drawable-mdpi/${f/.svg}.png
 	else
 		convert -background none $f[50%] ../res/drawable-mdpi/${f/.svg}.png
 	fi
 
 	if [ -f drawable-ldpi/$f ]; then
-		echo "manually scalled file exists in drawable-ldpi"
+		echo "manually scaled file exists in drawable-ldpi"
 		convert -background none drawable-ldpi/$f ../res/drawable-ldpi/${f/.svg}.png
 	else
 		convert -background none $f[37.5%] ../res/drawable-ldpi/${f/.svg}.png
