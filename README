@@ -11,4 +11,8 @@ $ ./convert.sh
 
 Now inspect the generated png's, if any need to be adjusted manually for a specific dpi, just place the manually created .png file in the appropriate dpi folder underneith the original/ directory.
 
-TODO: update script to pull manually created png's from original/*-dpi folders
+--- TODO: 
+
+update script to pull manually created png's from original/*-dpi folders
+
+script should delete all generated assets before generating new ones
