@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="18px" height="18px"
+	 viewBox="0 0 18 18" enable-background="new 0 0 18 18" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="18" width="18" y="297.5" x="386.5" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<rect display="none" fill="#414042" width="18" height="18"/>
+<path id="clipboard-8-icon_3_" display="none" opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M4.976,10.244
+	l0.702-0.648c0.82,0.396,1.34,0.699,2.264,1.357c1.735-1.969,2.882-2.969,5.012-4.295l0.229,0.525
+	c-1.759,1.535-3.045,3.242-4.898,6.566C7.142,12.402,6.379,11.545,4.976,10.244z M16.027,3.022V17.02H1.973V3.022h2.885L3.256,4.608
+	v11.108H14.66V4.608l-1.579-1.586H16.027z M10.87,2.983V2.731c0-1.025-0.831-1.855-1.854-1.855s-1.854,0.83-1.854,1.855v0.252
+	L5.136,5.025h7.768L10.87,2.983z M8.999,4.092c-0.755,0-1.37-0.614-1.37-1.37c0-0.76,0.614-1.373,1.37-1.373
+	c0.759,0,1.372,0.613,1.372,1.373C10.371,3.478,9.758,4.092,8.999,4.092z"/>
+<rect x="5.064" y="2.997" display="none" fill="none" width="11.579" height="8.06"/>
+<path display="none" fill="#FFFFFF" d="M16.066,3.573v6.651H5.991V3.573H16.066 M17.253,2.387H4.805v9.025h12.449L17.253,2.387
+	L17.253,2.387z"/>
+<g display="none">
+	<g display="inline">
+		<defs>
+			<polygon id="SVGID_1_" points="4.832,4.102 4.832,11.381 15.018,11.381 15.018,15.318 0.645,15.318 0.645,4.102 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<path fill="#FFFFFF" d="M12.579,5.137l1.132,7.485l-10.85,1.64L1.729,6.777L12.579,5.137 M13.166,4.34L0.932,6.19l1.341,8.871
+				l12.234-1.851L13.166,4.34L13.166,4.34z"/>
+		</g>
+	</g>
+</g>
+<path display="none" fill="#FFFFFF" d="M5.084,5.032C2.893,5.032,1.116,6.809,1.116,9c0,2.191,1.776,3.969,3.968,3.969
+	c2.193,0,3.969-1.775,3.969-3.969C9.054,6.809,7.277,5.032,5.084,5.032z M8.035,9.823H5.907v2.128H4.262V9.823H2.134V8.178h2.128
+	V6.05h1.645v2.128h2.128V9.823z"/>
+<path display="none" fill="#FFFFFF" d="M15.068,3.087l-1.615,1.104c1.211,1.183,1.902,2.929,1.902,4.808v0.002
+	c0,1.879-0.691,3.625-1.902,4.808l1.564,1.069c1.432-1.558,2.19-3.587,2.19-5.877V9C17.208,6.71,16.501,4.646,15.068,3.087z"/>
+<path display="none" fill="#FFFFFF" d="M13.111,9.018c0-1.415-0.428-2.669-1.19-3.745L10.312,6.33
+	c0.543,0.733,0.845,1.68,0.845,2.688l0,0c0,1.007-0.302,1.957-0.845,2.688l1.556,1.022C12.632,11.652,13.111,10.434,13.111,9.018
+	L13.111,9.018z"/>
+<path display="none" fill="#FFFFFF" d="M16.999,11.605h-3.212V4.366H5.849v-3.23H4.125v3.23H1.001v1.743h3.124v7.204h7.908v3.23
+	h1.754v-3.23h3.212V11.605z M5.849,11.605V6.109h6.184v5.497H5.849z"/>
+<path id="picture-box-icon_2_" display="none" fill="#FFFFFF" d="M11.441,12.793l-1.062,0.991H7.657l-1.066-0.991H0.763H0.76
+	l0.601,3.57L16.6,16.361l0.639-3.568h-0.002H11.441z M14.805,2.384H3.195l-0.16-0.922h11.929L14.805,2.384z M1.758,11.029
+	l-0.54-6.451h15.601l-0.555,6.451h-1.367l0.375-5.255H2.727l0.413,5.255H1.758z"/>
+<polygon display="none" fill="#FFFFFF" points="6.345,9.811 7.515,11.182 10.503,11.182 11.669,9.811 14.988,9.811 15.848,2.768 
+	1.824,2.768 2.676,9.811 "/>
+<polygon display="none" fill="#FFFFFF" points="17.268,11.636 12.168,11.636 11.073,12.939 10.514,12.939 7.526,12.939 
+	7.007,12.939 5.907,11.636 0.732,11.636 0.729,11.636 1.389,15.232 16.566,15.23 17.27,11.636 "/>
+<path display="none" fill="#FFFFFF" d="M13.512,3.487v11.725H4.55V3.487H13.512 M13.762,2.237H4.3c-0.55,0-1,0.45-1,1v12.225
+	c0,0.55,0.45,1,1,1h9.462c0.549,0,1-0.45,1-1V3.237C14.762,2.688,14.312,2.237,13.762,2.237L13.762,2.237z"/>
+<path display="none" fill="#FFFFFF" d="M7.679,4.087c0,0.275-0.225,0.5-0.5,0.5h-0.25c-0.275,0-0.5-0.225-0.5-0.5V1.486
+	c0-0.275,0.225-0.5,0.5-0.5h0.25c0.275,0,0.5,0.225,0.5,0.5V4.087z"/>
+<path display="none" fill="#FFFFFF" d="M11.74,4.087c0,0.275-0.225,0.5-0.5,0.5h-0.25c-0.275,0-0.5-0.225-0.5-0.5V1.486
+	c0-0.275,0.225-0.5,0.5-0.5h0.25c0.275,0,0.5,0.225,0.5,0.5V4.087z"/>
+<path id="clipboard-8-icon_1_" opacity="0.8" fill="#FFFFFF" d="M4.987,10.297l0.702-0.648c0.82,0.396,1.34,0.699,2.264,1.356
+	c1.735-1.968,2.882-2.969,5.012-4.295l0.229,0.525c-1.758,1.536-3.045,3.242-4.898,6.566C7.154,12.454,6.391,11.597,4.987,10.297z
+	 M16.039,3.074v13.997H1.985V3.074H4.87L3.268,4.661v11.108h11.404V4.661l-1.58-1.586H16.039z M10.881,3.036V2.784
+	c0-1.025-0.83-1.855-1.854-1.855s-1.854,0.83-1.854,1.855v0.252L5.147,5.078h7.768L10.881,3.036z M9.011,4.145
+	c-0.755,0-1.37-0.614-1.37-1.37c0-0.76,0.614-1.373,1.37-1.373c0.759,0,1.372,0.613,1.372,1.373C10.383,3.53,9.77,4.145,9.011,4.145
+	z"/>
+</svg>
