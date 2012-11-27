@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="55px" height="55px"
+	 viewBox="0 0 55 55" enable-background="new 0 0 55 55" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  x="212" y="3973" width="55" height="55" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<rect fill="#8F8E85" width="55" height="55"/>
+</g>
+<g>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M23.677,36.479h-4.432v-4.533h2.642
+		c0.925,0,1.679-0.754,1.679-1.678V17.771c0-0.923-0.754-1.679-1.679-1.679h-7.614c-0.924,0-1.679,0.754-1.679,1.679v12.497
+		c0,0.927,0.753,1.679,1.679,1.679h2.64v4.534H12.48c-0.658,0-1.197,0.541-1.197,1.201v1.666H24.88v-1.666
+		C24.879,37.02,24.339,36.479,23.677,36.479z"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M39.411,15.652l-2.486,1.631
+		c2.521,2.424,3.964,6.005,3.964,9.885c0,3.88-1.443,7.461-3.964,9.884l2.486,1.633c2.804-2.948,4.391-7.086,4.391-11.517
+		c0,0,0,0,0-0.002C43.802,22.736,42.215,18.601,39.411,15.652z"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M34.618,18.803l-2.442,1.667c1.69,1.649,2.654,4.081,2.654,6.7
+		v0.002c0,2.617-0.964,5.047-2.654,6.699l2.442,1.666c1.995-2.17,3.124-5.176,3.124-8.367
+		C37.742,23.978,36.613,20.973,34.618,18.803z"/>
+	<path opacity="0.8" fill="#FFFFFF" enable-background="new    " d="M27.585,23.425c0.753,1.02,1.175,2.338,1.175,3.743v0.002
+		c0,1.404-0.422,2.724-1.175,3.742l2.437,1.604c1.065-1.498,1.654-3.375,1.654-5.347v-0.002c0-1.969-0.588-3.848-1.654-5.345
+		L27.585,23.425z"/>
+</g>
+</svg>
