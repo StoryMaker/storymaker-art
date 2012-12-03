@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="640px" height="480px"
+	 viewBox="0 0 640 480" enable-background="new 0 0 640 480" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="480" width="800" y="160.5" x="-240.5" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g opacity="0.88">
+	<g>
+		<path fill="#231F20" d="M-160,0v480h800V0H-160z M590.521,158.819c-23.537-0.562-42.165-20.098-41.6-43.641
+			c0.561-23.543,20.1-42.166,43.638-41.604c23.539,0.564,42.166,20.102,41.603,43.641
+			C633.598,140.755,614.061,159.384,590.521,158.819z"/>
+	</g>
+</g>
+<path fill="#FFFFFF" d="M197.467,138.048c-0.098-1.074-1.135-1.857-2.313-1.75c-1.18,0.107-2.06,1.064-1.961,2.139l0.791,8.68
+	l-1.543,0.141l-0.875-9.613c-0.115-1.252-1.164-2.18-2.345-2.072c-1.178,0.109-2.043,1.211-1.928,2.461l0.873,9.615l-1.711,0.156
+	l-1.002-11.01c-0.115-1.252-1.164-2.178-2.344-2.072c-1.181,0.109-2.043,1.209-1.931,2.463l1.002,11.008l-1.676,0.152l-1.838-20.156
+	c-0.131-1.426-1.396-2.48-2.826-2.352c-1.428,0.131-2.481,1.396-2.354,2.824l2.344,25.715l-1.549-0.523l-0.705-7.736
+	c0,0-1.521,4.557-2.367,6.697c-0.533,1.336-0.84,3.004-0.727,4.434c0.229,2.799,10.227,11.942,13.776,11.636
+	c2.654-0.229,11.447-1.02,12.976-1.297c3.403-0.609,2.868-4.501,2.868-4.501l-0.032-0.734l-2.604-24.303l0,0V138.048z"/>
+<polygon fill="#FFFFFF" points="199.223,127.224 228.701,127.224 228.701,132.226 242.402,124.312 228.701,116.401 228.701,121.403 
+	199.223,121.403 "/>
+<polygon fill="#FFFFFF" points="146.963,121.403 117.484,121.403 117.484,116.401 103.783,124.315 117.484,132.226 117.484,127.224 
+	146.963,127.224 "/>
+<g>
+	<text transform="matrix(1 0 0 1 100.7441 96.3145)" fill="#FFFFFF" font-family="'Noteworthy-Bold'" font-size="22">Swipe for guideline options</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 153.9951 214.7705)" fill="#FFFFFF" font-family="'Noteworthy-Bold'" font-size="22">Change the clip type to</text>
+	<text transform="matrix(1 0 0 1 153.9951 243.7705)" fill="#FFFFFF" font-family="'Noteworthy-Bold'" font-size="22">switch to a different set </text>
+	<text transform="matrix(1 0 0 1 153.9951 272.7705)" fill="#FFFFFF" font-family="'Noteworthy-Bold'" font-size="22">of guidelines.</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 102.2188 361.2676)" fill="#FFFFFF" font-family="'Noteworthy-Bold'" font-size="22">Tap anywhere to activate the camera</text>
+</g>
+<circle fill="#ED342A" stroke="#FFFFFF" stroke-miterlimit="10" cx="62.245" cy="88.397" r="25.181"/>
+<path fill="#FFFFFF" d="M64.299,98.956h-4.264V81.349h-4.408v-3.268l8.672-0.762V98.956z"/>
+<circle fill="#ED342A" stroke="#FFFFFF" stroke-miterlimit="10" cx="59.962" cy="355.469" r="25.181"/>
+<path fill="#FFFFFF" d="M67.346,364.887H53.035v-2.799l6.605-7.471c0.986-1.162,1.688-2.145,2.103-2.951
+	c0.415-0.805,0.622-1.545,0.622-2.219c0-0.879-0.219-1.582-0.658-2.109s-1.1-0.791-1.979-0.791c-0.928,0-1.645,0.336-2.152,1.01
+	c-0.507,0.674-0.762,1.529-0.762,2.564h-4.16l-0.029-0.088c-0.049-1.895,0.576-3.498,1.875-4.812
+	c1.299-1.312,3.041-1.971,5.229-1.971s3.887,0.561,5.098,1.678c1.211,1.119,1.816,2.619,1.816,4.504
+	c0,1.279-0.339,2.447-1.018,3.502c-0.679,1.056-1.848,2.515-3.508,4.379l-3.516,4.22l0.029,0.073h8.715v3.281H67.346z"/>
+<g>
+	
+		<text transform="matrix(1 0 0 1 493.0684 461.0156)" fill="#FFFFFF" font-family="'Roboto-LightItalic'" font-size="20" text-decoration=" underline">TAP TO CLOSE</text>
+</g>
+<path fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-miterlimit="10" d="M375.242,204.785
+	c27.981-11.627,118.221-48.317,154.462-64.903c-5.113-1.65-9.14-2.98-13.312-4.471c4.286,1.49,9.999,3.363,14.184,4.566
+	c-1.531,4.359-2.607,7.617-5.538,14.6"/>
+</svg>
