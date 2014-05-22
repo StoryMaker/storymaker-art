@@ -5,17 +5,18 @@
 ]>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="104px" height="104px" viewBox="-7.4 -7.1 104 104"
-	 overflow="visible" enable-background="new -7.4 -7.1 104 104" xml:space="preserve">
+	 x="0px" y="0px" width="196px" height="196px" viewBox="-13.233 -12.981 196 196"
+	 overflow="visible" enable-background="new -13.233 -12.981 196 196" xml:space="preserve">
 <defs>
 </defs>
-<circle fill="#EF4136" cx="44.6" cy="44.6" r="44.6"/>
-<path fill="#FFFFFF" d="M44.4,21.2c-12.8,0-23.1,10.4-23.1,23.1c0,12.8,10.4,23.1,23.1,23.1c12.8,0,23.1-10.4,23.1-23.1
-	C67.5,31.6,57.1,21.2,44.4,21.2z M44.4,64.4c-11.1,0-20-9-20-20c0-11.1,9-20,20-20c11.1,0,20,9,20,20C64.4,55.4,55.4,64.4,44.4,64.4
-	z"/>
-<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="48.8" y1="42.5" x2="55" y2="36.3"/>
-<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="48.8" y1="36.3" x2="55" y2="42.5"/>
-<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="33.4" y1="42.5" x2="39.6" y2="36.3"/>
-<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="33.4" y1="36.3" x2="39.6" y2="42.5"/>
-<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="36.5" y1="52.6" x2="51.9" y2="52.6"/>
+<circle fill="#EF4136" cx="84.767" cy="84.766" r="84.767"/>
+<path fill="#FFFFFF" d="M84.278,31.242c-29.268,0-53.083,23.813-53.083,53.082c0,29.271,23.815,53.078,53.083,53.078
+	c29.271,0,53.085-23.813,53.085-53.078C137.363,55.056,113.544,31.242,84.278,31.242z M84.279,132.606
+	c-26.624,0-48.284-21.657-48.284-48.282c0-26.628,21.66-48.284,48.284-48.284c26.623,0,48.281,21.655,48.281,48.284
+	C132.56,110.949,110.902,132.606,84.279,132.606z"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="94.416" y1="80.103" x2="108.62" y2="65.9"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="94.416" y1="65.9" x2="108.62" y2="80.103"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="59.082" y1="80.103" x2="73.287" y2="65.9"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="59.082" y1="65.9" x2="73.287" y2="80.103"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" x1="66.185" y1="103.072" x2="101.519" y2="103.072"/>
 </svg>

@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-]>
-<svg version="1.1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="48px" height="48px" viewBox="-7.276 -9.717 48 48"
-	 overflow="visible" enable-background="new -7.276 -9.717 48 48" xml:space="preserve">
-<defs>
-</defs>
-<path id="server-icon_1_" fill="#DDDFDB" d="M18.558,20.486H14.89v3.556h-2.751v0.037v3.21h9.169v-3.21v-0.037h-2.75V20.486
-	L18.558,20.486z M29.606,24.042h-6.464v3.247h6.464V24.042z M10.304,24.042H3.84v3.247h6.464V24.042z M33.446,9.93H0v8.383h33.446
-	V9.93z M2.226,15.96l1.469-3.677h1.779L4.001,15.96H2.226z M5.104,15.96l1.472-3.677h1.776L6.881,15.96H5.104z M7.983,15.96
-	l1.471-3.677h1.777L9.761,15.96H7.983z M10.863,15.96l1.47-3.677h1.777l-1.47,3.677H10.863z M15.519,15.96h-1.775l1.471-3.677h1.777
-	L15.519,15.96z M29.475,15.35c-0.678,0-1.227-0.55-1.227-1.229s0.549-1.228,1.227-1.228c0.68,0,1.229,0.549,1.229,1.228
-	S30.154,15.35,29.475,15.35z M31.603,7.723H1.915L7.771,0h17.905L31.603,7.723z"/>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<path id="server-icon_1_" fill="#DDDFDB" d="M25.836,31.042h-3.668v3.556h-2.751v0.037v3.21h9.169v-3.21v-0.037h-2.75V31.042
+	L25.836,31.042z M36.883,34.598H30.42v3.247h6.463V34.598z M17.582,34.598h-6.464v3.247h6.464V34.598z M40.723,20.486H7.277v8.382
+	h33.445V20.486z M9.503,26.516l1.469-3.677h1.779l-1.473,3.677H9.503z M12.381,26.516l1.472-3.677h1.776l-1.471,3.677H12.381z
+	 M15.26,26.516l1.471-3.677h1.777l-1.47,3.677H15.26z M18.14,26.516l1.47-3.677h1.777l-1.47,3.677H18.14z M22.796,26.516h-1.775
+	l1.471-3.677h1.777L22.796,26.516z M36.752,25.905c-0.678,0-1.227-0.55-1.227-1.229c0-0.68,0.549-1.228,1.227-1.228
+	c0.68,0,1.229,0.548,1.229,1.228C37.981,25.355,37.432,25.905,36.752,25.905z M38.881,18.279H9.192l5.856-7.723h17.905
+	L38.881,18.279z"/>
 </svg>
