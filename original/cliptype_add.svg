@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-]>
-<svg version="1.1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="196px" height="196px" viewBox="-13.234 -12.981 196 196"
-	 overflow="visible" enable-background="new -13.234 -12.981 196 196" xml:space="preserve">
-<defs>
-</defs>
-<circle fill="#231F20" cx="84.767" cy="84.766" r="84.767"/>
-<path fill="#FFFFFF" d="M84.767,153.528c-37.916,0-68.764-30.848-68.764-68.763c0-37.916,30.848-68.762,68.764-68.762
-	c37.915,0,68.761,30.846,68.761,68.762C153.527,122.681,122.682,153.528,84.767,153.528z M84.767,17.903
-	c-36.869,0-66.863,29.994-66.863,66.862s29.994,66.862,66.863,66.862c36.867,0,66.861-29.994,66.861-66.862
-	S121.634,17.903,84.767,17.903z"/>
-<path fill="#FFFFFF" d="M89.517,78.963h17.988v9.929H89.517v20.117H78.641V88.892H60.573v-9.929h18.067V59.634h10.876V78.963z"/>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="196px" height="196px" viewBox="0 0 196 196" enable-background="new 0 0 196 196" xml:space="preserve">
+<circle opacity="0.85" fill="#231F20" cx="98" cy="98" r="84.767"/>
+<path fill="#FFFFFF" d="M98,166.762c-37.916,0-68.764-30.848-68.764-68.763c0-37.916,30.848-68.762,68.764-68.762
+	c37.915,0,68.76,30.846,68.76,68.762C166.76,135.916,135.914,166.762,98,166.762z M98,31.137c-36.869,0-66.863,29.994-66.863,66.862
+	S61.13,164.861,98,164.861c36.867,0,66.861-29.994,66.861-66.862S134.866,31.137,98,31.137z"/>
+<path fill="#FFFFFF" d="M102.75,92.197h17.987v9.929H102.75v20.116H91.874v-20.116H73.806v-9.929h18.067V72.868h10.875v19.329
+	H102.75z"/>
 </svg>
