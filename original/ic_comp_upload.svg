@@ -3,14 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="196px" height="196px" viewBox="0 0 196 196" enable-background="new 0 0 196 196" xml:space="preserve">
-<circle opacity="0.9" fill="#27AAE1" enable-background="new    " cx="98" cy="98" r="84.74"/>
+<circle opacity="0.9" fill="#27AAE1" stroke="#FFFFFF" stroke-width="3" stroke-miterlimit="10" enable-background="new    " cx="98" cy="98" r="84.74"/>
 <path fill="#FFFFFF" d="M98,166.779C60,166.779,29.22,136,29.22,98S60.191,29.22,98,29.22c38,0,68.779,30.78,68.779,68.78
 	S136,166.779,98,166.779z M98,31.12c-36.859,0-66.88,30.021-66.88,66.88c0,36.859,30.021,66.878,66.88,66.878
 	c36.859,0,66.879-30.021,66.879-66.878C164.879,61.141,134.859,31.12,98,31.12z"/>
 <path fill="#FFFFFF" d="M88.31,86.6h-8.169L98,68.741L115.859,86.6h-8.168v22.419H88.31V86.6z M114.721,107.311v7.98H81.47v-7.98
 	H75.2v14.25h45.598v-14.25H114.721L114.721,107.311z"/>
-<g opacity="0.9" enable-background="new    ">
-	<path fill="#D1D3D4" d="M182.269,100.222c0,48.787-41.941,82.103-84.269,82.103c-44.267,0-84.268-35.764-84.268-82.103
-		 M13.732,100.222c0,50.353,33.917,87.79,84.269,87.79c50.351,0,84.267-37.438,84.267-87.79"/>
-</g>
 </svg>

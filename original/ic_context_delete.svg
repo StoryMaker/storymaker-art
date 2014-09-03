@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="84px" height="84px" viewBox="56 56 84 84" enable-background="new 56 56 84 84" xml:space="preserve">
-<g>
-	<g opacity="0.9">
-		<circle fill="#231F20" cx="98.609" cy="98" r="40.069"/>
-	</g>
-</g>
-<polygon fill="#FFFFFF" points="116.529,83.068 113.543,80.079 98.608,95.011 83.679,80.08 80.691,83.067 95.622,98 80.69,112.932 
-	83.679,115.922 98.608,100.988 113.543,115.922 116.525,112.93 101.596,98 "/>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="84px" height="84px" viewBox="-0.001 0 84 84" overflow="visible" enable-background="new -0.001 0 84 84"
+	 xml:space="preserve">
+<defs>
+</defs>
+<circle opacity="0.9" fill="#231F20" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="41.068" cy="41.068" r="40.068"/>
+<polygon fill="#FFFFFF" points="58.987,26.137 56.002,23.147 41.066,38.079 26.139,23.148 23.15,26.135 38.081,41.068 23.148,56 
+	26.139,58.99 41.066,44.057 56.002,58.99 58.983,55.998 44.056,41.068 "/>
 </svg>
